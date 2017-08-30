@@ -1,0 +1,29 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mustache-express": "^1.2.5",
+    "pg": "^7.2.0",
+    "sequelize": "^4.8.0",
+    "sq": "0.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchaasis/ToDo.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jchaasis/ToDo/issues"
+  },
+  "homepage": "https://github.com/jchaasis/ToDo#readme",
+  "description": ""
+}
